@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="profile/Icon.png" height="120px"/>
+    <img src="https://github.com/Navmarg-Research-and-Innovation/navmarg-research-and-innovation.github.io/blob/main/Icon.png" height="120px"/>
     <h1 align="center">Navmarg </h1>
     <h4 align="center">
       Revolutionize the World One Innovation at a Time
