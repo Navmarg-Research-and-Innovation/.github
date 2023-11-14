@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="Icon.png" height="120px"/>
+    <img src="profile/Icon.png" height="120px"/>
     <h1 align="center">Navmarg </h1>
     <h4 align="center">
       Revolutionize the World One Innovation at a Time
