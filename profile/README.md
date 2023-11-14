@@ -1,12 +1,14 @@
-## Hi there 👋
+<p align="center">
+    <img src="Icon.png?raw=true" height="120px"/>
+    <h1 align="center">Navmarg</h1>
+    <h4 align="center">
+      Revolutionize the World One Innovation at a Time
+    </h4>
+  <br>
+</p>
 
-<!--
 
-**Here are some ideas to get you started:**
+<!-- Badge section -->
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+Navmarg Research and Innovation Pvt. Ltd, Incorporated in 2023 is a research-based startup working on transforming water challenges with advanced technology, addressing contamination, and pioneering innovations for societal and environmental well-being. It primarily works in the domain of water treatment and filtration, water monitoring and analysis, and the applications of embedded systems, applied chemistry and geosciences
